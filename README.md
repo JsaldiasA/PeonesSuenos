@@ -24,3 +24,5 @@ para encontrarme contigo en ese lugar.<br>
 ## dia 1
 Se creo el repo, esta el bajo antiguo que mando el jaime, la guitarra grabada con el efecto anterior.<br>
 Se esta editando la bateria, voy en desde el inicio hasta al compas 18. Se recorto todo hasta al compaz 35 pero falta rellenar.
+## dia 2
+Se esta editando la bateria y bajo, voy en desde el inicio hasta el compaz 47.
